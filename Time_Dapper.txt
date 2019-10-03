@@ -1,0 +1,1 @@
+Time Elapsed for data retrival in Dapper : 280 milli second
